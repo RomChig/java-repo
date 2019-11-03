@@ -7,4 +7,4 @@ public class Main {
         nick.skills();
         sveta.skills();
     }
-}
+}ajfjkqwefwe
