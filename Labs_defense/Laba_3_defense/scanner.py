@@ -3,8 +3,6 @@
 from termcolor import colored
 import socket
 
-
-
 #host = input("Enter the host : ")
 #print(host)
 j = 0
